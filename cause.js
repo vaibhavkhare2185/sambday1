@@ -1,7 +1,12 @@
  // Reasons database
  const reasons = [
     { 
-        text: "You’re such a kind and wonderful person, and I feel lucky to share such a good bond with you. 💖", 
+        text: "Youuuuuu areeeeee my favorite..."
+"My favorite pair of eyes to look into"
+"My favorite name to appear on my phone"
+"In a world so loud, you feel like home"
+"The way your smile lingers after a joke,"
+"The comfort I feel in every word you spoke. You became my favourite way to spend a afternoon", 
         emoji: "🌟",
         gif: "gif1.gif"
     },
