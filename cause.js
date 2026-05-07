@@ -1,7 +1,7 @@
  // Reasons database
  const reasons = [
     { 
-        text: "With the threads of my veins, I would stitch you a blanket to keep the cold away." 
+        text: "With the threads of my veins, I would stitch you a blanket to keep the cold away.",
         emoji: "🌟",
         gif: "gif1.gif"
     },
